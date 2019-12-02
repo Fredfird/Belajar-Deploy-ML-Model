@@ -14,6 +14,7 @@ This project has four major parts :
 Step:
 1. Create the machine learning model, run model.py
     This would create a serialized version of our model into a file model.pkl
+    
     ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/model.png)
 2. Run app.py using ‘python app.py’ command to start Flask API
     ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/run%20app.png)
