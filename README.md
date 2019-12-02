@@ -34,8 +34,7 @@ flask app hosted on the localhost can’t be shared with others since it’s “
     this ML model using various external libraries such as sklearn, numpy, pandas etc. Install all of them in your pythonanywhere           environment. To do so, open a new bash console and install libraries using pip. Make sure to install libraries with pip using           the user option because we don’t get the superuser rights.
     
     pip install flask flask_cors jsonify numpy pandas
-    
-    ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/install%20library.PNG
+    ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/install%20library.PNG)
 4. Upload the files
     Inside the default folder — /mysite/ you need to upload your complete folder. You can do it either using the files page on the           website or using the bash console by using wget command to download your files.
     ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/upload.png) 
