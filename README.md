@@ -18,7 +18,7 @@ Step:
 3. Navigate to URL http://localhost:5000; Enter valid numerical values in all 3 input boxes     and hit Predict.
 4. Send direct POST requests to FLask API using Python's inbuilt request module 
     Run python request.py command to send the request with some pre-population values.
-    [alt tag](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/postman.PNG)
+    ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/postman.PNG)
 
 
 
