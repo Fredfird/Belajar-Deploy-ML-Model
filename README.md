@@ -42,7 +42,7 @@ flask app hosted on the localhost can’t be shared with others since it’s “
 5. Reload the web app
    endpoint will now act as an API to facilitate other applications.
    ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/reload.png)
-   ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/postman.PNG)
+   ![picture](https://github.com/Fredfird/Belajar-Deploy-ML-Model/blob/master/respond.PNG)
 
 
        
